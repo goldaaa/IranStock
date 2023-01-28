@@ -122,3 +122,10 @@ Extracted api version of Iran's financial market for free for global use.
     print(View_Symbol('بوعلی'))                 # یافتن جزئیات یک نماد
 
     print(Symbol_TO_InsCode('بوعلی', loop_Fixed_error=10))           # تبدیل نماد به آیدی سهامداری
+
+
+Install the required package
+--------
+    requests
+    pandas
+    jdatetime
