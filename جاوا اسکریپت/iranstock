@@ -257,6 +257,10 @@ let create_symbols = (timeout=30) => {
     return Group_Symbols
 };
 
+function get(object, key) {
+    try {return object[key]} catch {return undefined}
+}
+
 let search_array = (items, text) => {
     text = text.split(' ');
     return items.filter(function(item) {
