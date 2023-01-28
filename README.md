@@ -10,4 +10,4 @@ If you are interested in financial support, you can send a message through Gmail
 
 gmail: goldaaa.program@gmail.com
 
-[github kivy persian](https://github.com/goldaaa/kivyir)
+[Iran Stock Exchange](https://github.com/goldaaa/IranStock)
